@@ -1,4 +1,6 @@
-![Banner](https://raw.githubusercontent.com/roidsroll/roidsroll/main/banner.png)
+<p align="center">
+  <img src="banner.png" alt="Rio Portfolio Banner" width="100%">
+</p>
 
 ![Visitor Counts](https://komarev.com/ghpvc/?username=roidsroll&color=brightgreen&style=flat)
 
