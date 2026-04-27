@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Rio Puji Nugroho  💻
 Full-stack developer · Building things for the web
 
-# Experience ⚙️
+## Experience ⚙️
 I have 18 months of internship experience in IT and Travel companies.
 
 | 🏢 Office |  Period | 📅 Years | Role/Focus |
@@ -11,12 +11,12 @@ I have 18 months of internship experience in IT and Travel companies.
 |PT Rahmah Travel  | August - November | 2025 | ![Fullstack Programmer](https://img.shields.io/badge/Fullstack_Programmer-%23ffb700?style=flat&logo=it-pro&logoColor=white) |
 |Jakarta Islamic Hospital Cempaka Putih | January - July | 2026 | ![Software Engineer](https://img.shields.io/badge/Software_Engineer-%23008cff?style=flat&logo=it-pro&logoColor=white) |
 
-# Style Work ✨
+## Style Work ✨
 ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-FF6B6B?style=for-the-badge&logo=sparkles&logoColor=white) 
 
 With : ![Google Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white) 
 
-# Tech stack </>
+## Tech stack </>
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
@@ -26,14 +26,17 @@ With : ![Google Antigravity](https://img.shields.io/badge/Antigravity-4285F4?sty
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-# Database 📊
+## Database 📊
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=black)
 
-# Website 🌐
+## Website 🌐
 [![My Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=flat&logo=firefoxbrowser&logoColor=white)](https://rioportfolio.netlify.app/)
 [![ToolsJob](https://img.shields.io/badge/ToolsJob-000000?style=flat&logo=vercel&logoColor=white)](https://toolsjob.vercel.app/)
 [![Recom Food](https://img.shields.io/badge/Recom_Food-F7DF1E?style=flat&logo=fastapi&logoColor=black)](https://recom-food.vercel.app/)
 [![Counts Notes V2](https://img.shields.io/badge/Counts_Notes_V2-000000?style=flat&logo=simplenote&logoColor=white)](https://counts-notes-v2.vercel.app/)
+
+## Contact Me 
+[![Email](https://img.shields.io/badge/Gmail-000000?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=roi3988388@gmail.com)
