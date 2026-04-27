@@ -1,4 +1,6 @@
-# Hi there! 👋 I'm Rio Puji Nugroho  💻
+# Hi there! 👋 I'm Rio Puji Nugroho  💻 
+![Visitor Counts](https://komarev.com/ghpvc/?username=roidsroll&color=brightgreen&style=flat)
+
 Full-stack developer · Building things for the web
 
 ## Experience ⚙️
@@ -40,3 +42,5 @@ With : ![Google Antigravity](https://img.shields.io/badge/Antigravity-4285F4?sty
 
 ## Contact Me 
 [![Email](https://img.shields.io/badge/Gmail-000000?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=roi3988388@gmail.com)
+
+
