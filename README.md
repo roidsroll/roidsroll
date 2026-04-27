@@ -32,4 +32,8 @@ With : ![Google Antigravity](https://img.shields.io/badge/Antigravity-4285F4?sty
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=black)
 
-# Main Project
+# Website 🌐
+[![My Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=flat&logo=firefoxbrowser&logoColor=white)](https://rioportfolio.netlify.app/)
+[![ToolsJob](https://img.shields.io/badge/ToolsJob-000000?style=flat&logo=vercel&logoColor=white)](https://toolsjob.vercel.app/)
+[![Recom Food](https://img.shields.io/badge/Recom_Food-F7DF1E?style=flat&logo=fastapi&logoColor=black)](https://recom-food.vercel.app/)
+[![Counts Notes V2](https://img.shields.io/badge/Counts_Notes_V2-000000?style=flat&logo=simplenote&logoColor=white)](https://counts-notes-v2.vercel.app/)
