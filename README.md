@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm Rio Puji Nugroho  💻 
+![Banner](https://raw.githubusercontent.com/roidsroll/roidsroll/main/banner.png)
+
 ![Visitor Counts](https://komarev.com/ghpvc/?username=roidsroll&color=brightgreen&style=flat)
 
 Full-stack developer · Building things for the web
